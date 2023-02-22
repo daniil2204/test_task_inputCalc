@@ -1,0 +1,15 @@
+.buttons-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-test{
+    color: #fff;
+    background-color: #0064e9;
+    border: 0.2rem solid #0064e9;
+    border-radius: 0.6rem;
+    margin-right: 15px;
+    cursor: pointer;
+    width: 100px;
+    height: 35px;
+}

@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.container-block{
+    margin: 50px;
+}
+.container-input{
+    width: 250px;
+}
+
+@media screen and (max-width: 750px) {
+    .container{
+        display: block;
+    }
+}
